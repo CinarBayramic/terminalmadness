@@ -1,5 +1,4 @@
-﻿// terminalmadness.cpp : Bu dosya 'main' işlevi içeriyor. Program yürütme orada başlayıp biter.
-//
+﻿// terminalmadness.cpp : main class
 
 #include <iostream>
 #include <stdio.h>
